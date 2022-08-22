@@ -1,6 +1,6 @@
 {
   "name": "jabrms-color-theme",
-  "displayName": "jabrms-color-theme",
+  "displayName": "jabrms Color Theme",
   "description": "Color Theme inspired by IBM's Carbon Design System",
   "version": "0.0.1",
   "engines": {
@@ -10,7 +10,17 @@
     "Themes"
   ],
   "repository": {
+    "type": "git",
     "url": "https://github.com/jabrms/vsc-color-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/jabrms/vsc-color-theme/issues",
+    "email": "mail@jonasabrahams.de"
+  },
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#161616",
+    "theme": "dark"
   },
   "contributes": {
     "themes": [
