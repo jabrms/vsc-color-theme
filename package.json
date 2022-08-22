@@ -9,6 +9,9 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "url": "https://github.com/jabrms/vsc-color-theme"
+  },
   "contributes": {
     "themes": [
       {
