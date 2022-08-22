@@ -1,0 +1,21 @@
+{
+  "name": "jabrms-color-theme",
+  "displayName": "jabrms-color-theme",
+  "description": "Color Theme inspired by IBM's Carbon Design System",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "jabrms",
+        "uiTheme": "vs",
+        "path": "./themes/jabrms-color-theme.json"
+      }
+    ]
+  }
+}
